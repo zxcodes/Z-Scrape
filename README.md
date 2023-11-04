@@ -1,4 +1,4 @@
-# Zelp Scraper
+# Z-Scrape
 
 ### A simple tool to automate scraping data from websites.
 
